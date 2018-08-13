@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">timer</string>
+    <string name="remainning_time">00:00:00</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="start_lable">Start</string>
+</resources>
